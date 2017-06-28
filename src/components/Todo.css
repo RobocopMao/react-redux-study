@@ -1,0 +1,10 @@
+.Todo {
+    text-align: center;
+}
+.Todo-list > li {
+    text-align: left;
+    margin-bottom: 10px;
+}
+.Todo-list > li > a {
+    margin-left: 20px;
+}
